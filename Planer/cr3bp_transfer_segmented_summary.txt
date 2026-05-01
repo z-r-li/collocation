@@ -1,0 +1,13 @@
+Literal Segmented Bezier — N-sweep summary
+Problem: L1 -> L2 Lyapunov transfer (planar Earth-Moon CR3BP)
+Degree per segment: 7, Gauss-Legendre nodes per segment: 12
+Shooting baseline cost: J = 0.087800
+
+    N | converged | iters |   time (s) |           cost |  max |defect|
+   ---+-----------+-------+------------+----------------+---------------
+    1 |     Y     |    45 |      0.246 |   1.160467e-01 |       4.99e-13
+    2 |     Y     |    96 |      2.056 |   1.041700e-01 |       1.12e-10
+    4 |     Y     |    60 |      5.236 |   8.999481e-02 |       1.14e-10
+    8 |     Y     |    49 |     18.701 |   8.784861e-02 |       1.15e-10
+   16 |     Y     |    48 |     71.998 |   8.779927e-02 |       3.05e-12
+   32 |     Y     |     5 |     32.611 |   8.779922e-02 |       6.28e-13

@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.python-version
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# LaTeX intermediates (we keep .tex but not the build cruft)
+*.aux
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# Scratch / probe scripts (project convention)
+_scratch_*.py
+_probe_*.py
+
+# Large binaries we don't ship (link to source instead)
+*.pptx
+*.docx
+*.asc
+
+# Matplotlib / numpy caches sometimes dropped by the run scripts
+/tmp/
+*.tmp
+matplotlib-cache/

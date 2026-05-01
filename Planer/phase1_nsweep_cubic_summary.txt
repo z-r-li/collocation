@@ -1,0 +1,6 @@
+Phase 1 cubic headline sweep (degree=3, n_colloc=4)
+PMP shooting J* = 0.0430574185, wall = 5.204s
+
+    N | converged | iters |  nfev |    time (s) |             cost |        |J - J*| |  max |defect|
+   ---+-----------+-------+-------+-------------+------------------+----------------+----------------
+   32 |     N     |    23 |     0 |      31.374 |     0.0430567944 |      6.241e-07 |       1.43e-01
